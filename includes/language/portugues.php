@@ -1,0 +1,111 @@
+<?php
+/**
+ * @package HelpDeskZ
+ * @website: http://www.helpdeskz.com
+ * @community: http://community.helpdeskz.com
+ * @author Evolution Script S.A.C.
+ * @since 1.0.0
+ */
+$LANG['HOME'] = 'Home';
+$LANG['MY_TICKETS'] = 'Meus Tickets';
+$LANG['SUBMIT_A_TICKET'] = 'Enviar um Ticket';
+$LANG['KNOWLEDGEBASE'] = 'Base de conhecimento';
+$LANG['NEWS'] = 'Notícias';
+$LANG['ACCOUNT_LOGIN'] = 'Login de conta';
+$LANG['LASTEST_UPDATES'] = 'Últimas atualizações';
+$LANG['YOUR_EMAIL_ADDRESS'] = 'Seu endereço de e-mail';
+$LANG['YOUR_PASSWORD'] = 'Sua senha';
+$LANG['REMEMBER_ME'] = 'Lembra de mim';
+$LANG['LOST_PASSWORD'] = 'Esqueceu a Senha';
+$LANG['LOGIN'] = 'Login';
+$LANG['ACCOUNT'] = 'Conta';
+$LANG['MY_PROFILE'] = 'Meu perfil';
+$LANG['PREFERENCES'] = 'Preferências';
+$LANG['CHANGE_PASSWORD'] = 'Alterar senha';
+$LANG['LOGOUT'] = 'Sair';
+$LANG['VIEW_ALL_NEWS'] = 'Exibir todas as notícias';
+$LANG['POSTED_BY_ON'] = 'Postado por %author% em %date%';
+$LANG['OLDEST_POSTS'] = 'Posts mais antigos';
+$LANG['NEWEST_POSTS'] = 'Posts mais recentes';
+$LANG['MOST_POPULAR_ARTICLES'] = 'Artigos mais populares';
+$LANG['NEWEST_ARTICLES'] = 'Artigos mais recentes';
+$LANG['MORE_TOPICS'] = 'Mais tópicos';
+$LANG['FILE_NOT_FOUND'] = 'Arquivo não encontrado.';
+$LANG['SEARCH'] = 'Pesquisa';
+$LANG['SEARCH_IN_KNOWLEDGEBASE'] = 'Pesquisar na base de conhecimento';
+$LANG['SEARCH_RESULTS'] = 'Resultados da pesquisa';
+$LANG['SEARCH_NOT_FOUND'] = 'Não conseguimos encontrar nada de relevante para a sua pesquisa';
+$LANG['ENTER_EMAIL_RECOVER_PASSWORD'] = 'Por favor, digite seu endereço de email registrado e clique em enviar. Você receberá um e-mail com um link para redefinir sua senha em breve.';
+$LANG['ACCOUNT_INFORMATION'] = 'Informações da conta';
+$LANG['EMAIL'] = 'Correio electrónico';
+$LANG['CAPTCHA_VERIFICATION'] = 'Verificação de CAPTCHA';
+$LANG['ENTER_TEXT_CAPTCHA'] = 'Por favor, digite o texto que você vê na imagem na caixa de texto abaixo (nós usamos isso para impedir submissões automatizadas).';
+$LANG['SUBMIT'] = 'Enviar';
+$LANG['CANT_FIND_SOLUTION_SUBMIT_TICKET'] = 'Se você não encontrar uma solução para seu problema, você pode enviar um ticket selecionando o departamento apropriado abaixo.';
+$LANG['SELECT_DEPARTMENT_TICKET'] = 'Por favor, selecione um departamento onde seu ticket será submetido';
+$LANG['CSRF_ERROR'] = 'Encontramos um problema (solicitação intersite detectado falsificação); por favor, tente novamente.';
+$LANG['DEPARTMENTS'] = 'Departamentos';
+$LANG['NEXT'] = 'Próximo';
+$LANG['INVALID_EMAIL_OR_PASSWORD'] = 'Endereço de e-mail inválido ou a senha.';
+$LANG['YOUR_TICKET_DETAILS'] = 'Detalhes do seu ticket';
+$LANG['ENTER_TICKET_DETAILS'] = 'Digite abaixo os detalhes do seu ticket. Se você está relatando um problema, lembre-se de fornecer informações muito relevantes como possível.';
+$LANG['GENERAL_INFORMATION'] = 'Informações gerais';
+$LANG['FULL_NAME'] = 'Nome completo';
+$LANG['PRIORITY'] = 'Prioridade';
+$LANG['YOUR_MESSAGE'] = 'Sua mensagem';
+$LANG['SUBJECT'] = 'Assunto';
+$LANG['ATTACHMENTS'] = 'Anexos';
+$LANG['INVALID_CAPTCHA_CODE'] = 'ERRO: Código de imagem de verificação inválido';
+$LANG['INVALID_EMAIL_ADDRESS'] = 'ERRO: Por favor, especifique um endereço de email válido';
+$LANG['ONE_REQUIRED_FIELD_EMPTY'] = 'Dentre os campos obrigatório(s) está vazio';
+$LANG['ERROR_UPLOADING_A_FILE'] = 'Houve um erro de upload de um arquivo.';
+$LANG['INVALID_FILE_EXTENSION'] = 'Extensão de arquivo inválido.';
+$LANG['FILE_NOT_ALLOWED'] = 'Arquivo não é permitido.';
+$LANG['FILE_IS_BIG'] = 'Arquivo é muito grande. Tamanho máximo é %size%';
+$LANG['REQUEST_RECEIVED'] = 'Seu pedido foi recebido';
+$LANG['REQUEST_RECEIVED_RESPONSE'] = 'Recebemos seu pedido e nossa equipe vai voltar para você em breve. Você pode entrar para o helpdesk para revisar o status do seu pedido, ou verifique o seu e-mail para obter atualizações.';
+$LANG['TICKET_ID'] = 'Ticket ID';
+
+$LANG['WE_SENT_YOUR_NEW_PASSWORD'] = 'Enviamos um e-mail com uma nova senha para o endereço fornecido';
+$LANG['EMAIL_WAS_NOT_FOUND'] = 'Email não foi encontrado.';
+$LANG['SEARCH_TICKET_ID'] = 'Pesquisar ticket ID';
+$LANG['VIEW_TICKETS'] = 'Ver tickets';
+$LANG['VIEW_TICKETS_DESCRIPTION'] = 'Listados abaixo estão os tickets que você tenha enviado no passado. Clique num sujeito a exibição do ticket, o tickete a sua história.';
+$LANG['LAST_UPDATE'] = 'Última atualização';
+$LANG['DEPARTMENT'] = 'Departamento';
+$LANG['STATUS'] = 'Status';
+$LANG['VIEW_TICKET_ID'] = 'Ver Ticket #%id%';
+$LANG['CREATED'] = 'Criado';
+$LANG['UPDATED'] = 'Atualizado';
+$LANG['TICKET_IS_CLOSED'] = 'Ticket está fechado.';
+$LANG['ADD_REPLY'] = 'Adicionar resposta';
+$LANG['YOUR_REPLY_SENT'] = 'Sua resposta a este ticket foi enviada com sucesso';
+$LANG['USER'] = 'Usuário';
+$LANG['STAFF'] = 'Equipe';
+$LANG['POSTED_ON'] = 'Postado em';
+$LANG['TICKET_NOT_FOUND_OR_PERMISSION'] = 'Desculpe, não conseguimos encontrar o ticket que você solicitou ou você não tem permissão para visualizá-lo.';
+$LANG['TICKET_NOT_FOUND'] = 'Ticket não foi encontrado.';
+$LANG['YOUR_PROFILE_UPDATED'] = 'Seu perfil foi atualizado.';
+$LANG['UPDATE'] = 'Atualização';
+$LANG['YOUR_PREFERENCES_SAVED'] = 'Suas preferências foram salvas.';
+$LANG['GENERAL_OPTIONS'] = 'Opções gerais';
+$LANG['TIMEZONE'] = 'Fuso horário';
+$LANG['DEFAULT_TIMEZONE'] = 'Fuso horário padrão';
+$LANG['PASSWORD_UPDATED'] = 'Senha atualizada.';
+$LANG['PASSWORD_DETAILS'] = 'Detalhes de senha';
+$LANG['EXISTING_PASSWORD'] = 'Senha atual';
+$LANG['NEW_PASSWORD'] = 'Nova senha';
+$LANG['CONFIRM'] = 'Confirmar';
+$LANG['EXISTING_PASSWORD_INCORRECT'] = 'Sua senha atual está incorreta.';
+$LANG['NEW_PASSWORDS_DO_NOT_MATCH'] = 'As novas senhas entradas não coincidem.';
+$LANG['EMAIL_ASSOCIATED_OTHER_ACCOUNT'] = 'Endereço de e-mail já está associado a outra conta.';
+$LANG['WE_ARE_PERFORMING_MAINTENANCE'] = 'Estamos atualmente realizando manutenção programada. Nossas desculpas por qualquer inconveniente causado';
+$LANG['MAINTENANCE_MODE'] = 'Modo de manutenção';
+$LANG['PAGE_NOT_FOUND'] = 'Página não encontrada - 404';
+$LANG['CLICK_TO_BACK_HELPDESK'] = 'Clique para voltar à home do suporte';
+$LANG['OPEN'] = 'Aberto';
+$LANG['AWAITING_REPLY'] = 'Aguardando resposta';
+$LANG['IN_PROGRESS'] = 'Em andamento';
+$LANG['ANSWERED'] = 'Respondeu';
+$LANG['CLOSED'] = 'Fechado';
+?>
